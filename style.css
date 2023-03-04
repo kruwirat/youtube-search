@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:ital,wght@1,300&family=Kanit:wght@300&display=swap');
+*{
+    text-align: center;
+    font-family: 'K2D', sans-serif;
+
+}
+
+@font-face {
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.googleapis.com/css2?family=K2D:ital,wght@1,300&family=Kanit:wght@300&display=swap);
+    unicode-range: U+00-52F, U+1E00-1FFF, U+2200–22FF;
+}
+
+.body{
+    background-color: burlywood;
+}
+
+.navbar{
+    text-align: center;
+    background-color: coral;
+}
+
+.center{
+    background-color: aqua;
+}
+
+.footer{
+    text-align: center;
+    font-size: 16px;
+    background-color: coral;
+    background-size: 15px;
+}
